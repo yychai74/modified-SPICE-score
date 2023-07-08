@@ -4,9 +4,14 @@ This repo is a modified version of [Semantic Propositional Image Caption Evaluat
 
 You can obtain following result file using this code:
 
-1. SPICE parser (Stanford scene graph parser) results.
+1. Scece graphs of SPICE parser (Stanford scene graph parser).
 
 2. SPICE score of customized scene graph.
 
 Note: this implementation is easy and *extremely inelegant*.
 
+## Usage
+
+The requirements and dependencies is the same with [SPICE](https://github.com/peteanderson80/SPICE).
+
+1. SPICE parser results
