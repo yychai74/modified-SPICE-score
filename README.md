@@ -12,7 +12,7 @@ Note: this implementation is easy and *extremely inelegant*.
 
 ## Usage
 
-The requirements and dependencies is the same with [SPICE](https://github.com/peteanderson80/SPICE).
+The requirements and dependencies are the same with [SPICE](https://github.com/peteanderson80/SPICE).
 
 `.\src\test\java\edu\anu\spice\SpiceTest.java` and `.\src\main\java\edu\anu\spice\SpiceScorer.java` have been modified according to our requirements.
 All you need to do is to simplely run `SpiceTest.java`.
