@@ -8,5 +8,5 @@ You can obtain following result file using this code:
 
 2. SPICE score of customized scene graph.
 
-Note: this implementation is easy but *extremely inelegant*.
+Note: this implementation is easy and *extremely inelegant*.
 
