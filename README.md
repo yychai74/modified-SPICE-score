@@ -31,5 +31,5 @@ In this case, the actual scene graph inputs is your own file which would be proc
 ## Results
 
 After running `SpiceTest.java`, a txt file or SPICE score json file would be saved.
-We provide the SPICE score json file we used for results in Table 5 of our paper in `results` folder, and you can obtain the exactly same results using these files.
+We provide the SPICE score json file we used for results in Table 5 of our paper in `results` folder, and you can obtain exactly the same results using these files.
 The test code is available at [here](https://github.com/jmhessel/clipscore/blob/main/flickr8k_example/compute_metrics.py).
