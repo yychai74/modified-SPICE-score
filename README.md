@@ -2,7 +2,7 @@
 
 This repo is a modified version of [Semantic Propositional Image Caption Evaluation (SPICE)](https://github.com/peteanderson80/SPICE), which is designed for experiments in our paper [FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing](https://arxiv.org/pdf/2305.17497.pdf) (ACL 2023).
 
-You can obtain the following result file using this code:
+You can obtain the following results file using this code:
 
 1. Scece graphs of SPICE parser (Stanford scene graph parser).
 
